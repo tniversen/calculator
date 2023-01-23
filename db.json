@@ -1,1 +1,19 @@
-
+{
+  "forms": [
+    {
+      "name": "Thomas Iversen",
+      "email": "thomasiversen@gmail.com",
+      "message": "It´s fine"
+    },
+    {
+      "name": "Thomas Norman",
+      "email": "thomasnorman@gmail.com",
+      "message": "It´s good"
+    },
+    {
+      "name": "Thomas Rypestol",
+      "email": "thomasrypestol@gmail.com",
+      "message": "It´s amazing"
+    }
+  ]
+}
